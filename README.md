@@ -21,4 +21,8 @@ https://findidfb.com/
 
 # Telegram:
 Kurdistan Technology
-Made By Mrnobody_090
+Added By Mrnobody_090
+
+Copyright:
+Made BY
+https://github.com/KasRoudra/k-fuscator
